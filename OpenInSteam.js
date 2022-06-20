@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name    Open in Steam
-// @namespace    http://tampermonkey.net/
+// @namespace    Violentmonkey Scripts
 // @version      0.2
 // @description Adds a button to Steam that opens the page in the Steam application.
 // @author       Kvaek
