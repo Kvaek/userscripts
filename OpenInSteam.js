@@ -1,13 +1,15 @@
 // ==UserScript==
-// @name    Open in Steam
-// @namespace    Violentmonkey Scripts
-// @version      0.2
-// @description Adds a button to Steam that opens the page in the Steam application.
-// @author       Kvaek
-// @include  /https:\/\/.*steam.*\.com\/.*/
-// @include         http*://steamcommunity.com/*
-// @include         http*://store.steampowered.com/*
-// @icon         https://www.google.com/s2/favicons?domain=steampowered.com
+// @name          Open in Steam
+// @namespace     Violentmonkey Scripts
+// @version       0.2
+// @description   Adds a button to Steam that opens the page in the Steam application.
+// @author        Kvaek
+// @include       /https:\/\/.*steam.*\.com\/.*/
+// @include       http*://steamcommunity.com/*
+// @include       http*://store.steampowered.com/*
+// @icon          https://www.google.com/s2/favicons?domain=steampowered.com
+// @updateURL     https://raw.githubusercontent.com/Kvaek/userscripts/main/OpenInSteam.js
+// @downloadURL   https://raw.githubusercontent.com/Kvaek/userscripts/main/OpenInSteam.js
 // @grant        none
 // ==/UserScript==
 
